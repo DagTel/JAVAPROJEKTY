@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dzien5/Dzien5.iml" filepath="$PROJECT_DIR$/Dzien5/Dzien5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dzien6/Dzien6.iml" filepath="$PROJECT_DIR$/Dzien6/Dzien6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dzień7/Dzień7.iml" filepath="$PROJECT_DIR$/Dzień7/Dzień7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVAPROJEKTY.iml" filepath="$PROJECT_DIR$/.idea/JAVAPROJEKTY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cwiczenia/cwiczenia.iml" filepath="$PROJECT_DIR$/cwiczenia/cwiczenia.iml" />
+    </modules>
+  </component>
+</project>
